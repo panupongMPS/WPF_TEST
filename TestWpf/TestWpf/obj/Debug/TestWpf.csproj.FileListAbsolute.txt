@@ -45,3 +45,5 @@ E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.exe
 E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.pdb
 C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\Pages\LoginPage.g.cs
 C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\Pages\LoginPage.baml
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\Pages\ForgetPassPage.g.cs
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\Pages\ForgetPassPage.baml

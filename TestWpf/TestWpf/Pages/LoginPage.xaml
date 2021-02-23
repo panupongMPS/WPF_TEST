@@ -25,7 +25,6 @@
         <Label Content="ชื่อผู้ใช้" HorizontalAlignment="Center" Margin="81,89,211,253.333" VerticalAlignment="Center" FontSize="22"/>
         <Label Content="รหัสผ่าน" HorizontalAlignment="Center" Margin="83,168,198.667,175" VerticalAlignment="Center" FontSize="22" RenderTransformOrigin="0.86,0.602"/>
         <TextBox x:Name="tbUsername" HorizontalAlignment="Center" Margin="0,128,0,219.333" TextWrapping="Wrap" Text="" VerticalAlignment="Center" FontSize="24" MinWidth="200" TabIndex="0"/>
-        <CheckBox x:Name="checkBoxShowPwd" Content="แสดงรห้สผ่าน" HorizontalAlignment="Center" Margin="91,247,187,118.333" VerticalAlignment="Center" RenderTransformOrigin="-0.204,-0.667" FontSize="16" TabIndex="2" IsChecked="False"/>
         <Button x:Name="btnEnter" Content="ตกลง" HorizontalAlignment="Center" Margin="0,0,0,30" VerticalAlignment="Bottom" MinWidth="150" MinHeight="40" FontSize="18" BorderBrush="{x:Null}" Foreground="White" TabIndex="3" Click="btnEnter_Click">
             <Button.Background>
                 <LinearGradientBrush EndPoint="0,0" StartPoint="1,2">
@@ -39,5 +38,7 @@
         </Button>
         <Label x:Name="labelCheckLogin" Content="รหัสผ่าน" HorizontalAlignment="Center" Margin="0,0,0,72" VerticalAlignment="Bottom" FontSize="18" RenderTransformOrigin="0.86,0.602" Foreground="#FFFB0000" Visibility="Hidden" Background="{x:Null}"/>
         <PasswordBox x:Name="pwdBox" HorizontalAlignment="Center" Margin="91,207,91,143.333" VerticalAlignment="Center" MinWidth="200" FontSize="24" TabIndex="1"/>
+        <Label Content="สมัครสมาชิก" HorizontalAlignment="Center" Margin="106,0,238,116.667" VerticalAlignment="Bottom" Foreground="#FF00C1FF"/>
+        <Label x:Name="lbForgetPass" Content="ลืมรหัสผ่าน" HorizontalAlignment="Center" Margin="245,0,106,116.667" VerticalAlignment="Bottom" Foreground="#FF00C1FF" MouseLeftButtonUp="lbForgetPass_MouseLeftButtonUp"/>
     </Grid>
 </Page>

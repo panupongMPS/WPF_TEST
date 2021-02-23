@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\App.xaml
-2563972398
+3-826627812
 
-813195921
+9868080629
 13-1505183044
-MainWindow.xaml;Pages\LoginPage.xaml;
+MainWindow.xaml;Pages\ForgetPassPage.xaml;Pages\LoginPage.xaml;
 
 True
 

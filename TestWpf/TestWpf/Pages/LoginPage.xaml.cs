@@ -72,5 +72,10 @@ namespace TestWpf.Pages
                 labelCheckLogin.Visibility = Visibility;
             }
         }
+
+        private void lbForgetPass_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            
+        }
     }
 }
