@@ -1,0 +1,47 @@
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\bin\Debug\TestWpf.exe.config
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\bin\Debug\TestWpf.exe
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\bin\Debug\TestWpf.pdb
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.csprojAssemblyReference.cache
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\App.g.cs
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\MainWindow.baml
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.g.resources
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.cache
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.exe
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\TestWpf.pdb
+D:\TestWpf\TestWpf\bin\Debug\TestWpf.exe.config
+D:\TestWpf\TestWpf\bin\Debug\TestWpf.exe
+D:\TestWpf\TestWpf\bin\Debug\TestWpf.pdb
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.csprojAssemblyReference.cache
+D:\TestWpf\TestWpf\obj\Debug\MainWindow.g.cs
+D:\TestWpf\TestWpf\obj\Debug\App.g.cs
+D:\TestWpf\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+D:\TestWpf\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+D:\TestWpf\TestWpf\obj\Debug\MainWindow.baml
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.g.resources
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.cache
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.exe
+D:\TestWpf\TestWpf\obj\Debug\TestWpf.pdb
+E:\WPF project\TestWpf\TestWpf\bin\Debug\TestWpf.exe.config
+E:\WPF project\TestWpf\TestWpf\bin\Debug\TestWpf.exe
+E:\WPF project\TestWpf\TestWpf\bin\Debug\TestWpf.pdb
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.csprojAssemblyReference.cache
+E:\WPF project\TestWpf\TestWpf\obj\Debug\MainWindow.g.cs
+E:\WPF project\TestWpf\TestWpf\obj\Debug\App.g.cs
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf_MarkupCompile.cache
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf_MarkupCompile.lref
+E:\WPF project\TestWpf\TestWpf\obj\Debug\MainWindow.baml
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.g.resources
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.Properties.Resources.resources
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.csproj.GenerateResource.cache
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.csproj.CoreCompileInputs.cache
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.exe
+E:\WPF project\TestWpf\TestWpf\obj\Debug\TestWpf.pdb
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\ASP_DEV_PC\source\repos\TestWpf\TestWpf\obj\Debug\Pages\LoginPage.baml
